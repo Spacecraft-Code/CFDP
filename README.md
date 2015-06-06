@@ -9,5 +9,5 @@ The CF application is used for transmitting and receiving files. To transfer fil
 
 CF sends and receives file information and file-data in Protocol Data Units (PDUs) that are compliant with the CFDP standard protocol defined in the CCSDS 727.0-B-4 Blue Book. The PDUs are transferred to and from the CF application via CCSDS packets on the cFE's software bus middleware." -- http://sourceforge.net/projects/cfs-cfdp/
 
-# spacetaxonomy
-* org:nasa:gsfc:sourcecode:fsw:cfs:cfdp
+# Taxonomy
+* { "spacetaxonomy" : "org:nasa:gsfc:sourcecode:fsw:cfs:cfdp" }
